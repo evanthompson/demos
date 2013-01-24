@@ -1,0 +1,675 @@
+SQL1005N  The database alias "ass4" already exists in either the local 
+database directory or system database directory.
+
+
+   Database Connection Information
+
+ Database server        = DB2/LINUX 9.7.5
+ SQL authorization ID   = DB2INST1
+ Local database alias   = ASS4
+
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+****************************************************************************
+QUESTION 1
+****************************************************************************
+
+COMPANYNAME                      LEGREPNAME                      
+-------------------------------- --------------------------------
+Nortel                           Vin Diesel                      
+Mr.Peanut                        Vin Diesel                      
+Stick To It                      James Caan                      
+BiotechInc                       Quel Quune                      
+FrenchFry Face                   Mr. Dernier                     
+
+  5 record(s) selected.
+
+
+****************************************************************************
+QUESTION 2
+****************************************************************************
+
+LEPREPANDCUSTOMER               
+--------------------------------
+Vin Diesel                      
+Paul Walker                     
+James Caan                      
+
+  3 record(s) selected.
+
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+
+****************************************************************************
+QUESTION 3
+****************************************************************************
+
+HOUROFMAXSALES
+--------------
+             8
+
+  1 record(s) selected.
+
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+
+****************************************************************************
+QUESTION 4
+****************************************************************************
+
+SALESMAN                         IDSALES     FIRSTCOMMISSIONDATE QCCODE     
+-------------------------------- ----------- ------------------- -----------
+Michael Bolton                           601 2011-03-08                  801
+
+  1 record(s) selected.
+
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+****************************************************************************
+QUESTION 5
+****************************************************************************
+
+ACCESSORYNAME                    TOTALQUANTITYSOLD UNITPRICE TOTALPRICE          
+-------------------------------- ----------------- --------- --------------------
+Keyboard                                         5     40.00               200.00
+Monitor                                         10    150.00              1500.00
+Mouse                                            9     30.00               270.00
+Printer                                         26    120.00              3120.00
+Speakers                                        10     60.00               600.00
+
+  5 record(s) selected.
+
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+
+****************************************************************************
+QUESTION 6
+****************************************************************************
+
+COMPNAME                         MOSTEXPPARTNAME                  PARTPRICE
+-------------------------------- -------------------------------- ---------
+A Really Awesome Notebook        Hard Disk C                         350.00
+Acer                             Radeon HD 6800                      450.00
+Nothing-But-A-Lemming            Hard Disk B                         240.00
+Speedy Gonzalez                  CPU C                               600.00
+The Serving Machine              GForce ASUS                         580.00
+
+  5 record(s) selected.
+
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+****************************************************************************
+QUESTION 7a
+****************************************************************************
+
+LEGREPNAME                       PRODUCTNAME                      UNITPRICE QUANTITY    TOTALPRICE           SALEDATE  
+-------------------------------- -------------------------------- --------- ----------- -------------------- ----------
+James Caan                       The Serving Machine                1500.00           8             12000.00 2011-04-08
+James Caan                       Printer                             120.00          15              1800.00 2011-04-08
+Vin Diesel                       Acer                                600.00          12              7200.00 2011-03-08
+Vin Diesel                       Printer                             120.00          11              1320.00 2011-03-08
+Vin Diesel                       Mouse                                30.00           9               270.00 2011-04-08
+Vin Diesel                       Keyboard                             40.00           3               120.00 2011-04-08
+Vin Diesel                       Monitor                             150.00           9              1350.00 2011-03-08
+
+  7 record(s) selected.
+
+****************************************************************************
+QUESTION 7b
+****************************************************************************
+
+LEGREPNAME                       TOTALAMOUNTOFALLPURCHASES        
+-------------------------------- ---------------------------------
+James Caan                                                13800.00
+Vin Diesel                                                10260.00
+
+  2 record(s) selected.
+
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+****************************************************************************
+QUESTION 8a
+****************************************************************************
+
+
+TOPSALEQCCODE SALESNAME                        PRODUCTNAME                      UNITPRICE QUANTITY    SALESDISCOUNT INMONTHOFAPRIL
+------------- -------------------------------- -------------------------------- --------- ----------- ------------- --------------
+          802 Mike Wazoski                     Mouse                                30.00           9          0.10 2011-04-08    
+          802 Mike Wazoski                     Keyboard                             40.00           3          0.10 2011-04-08    
+          803 Michael Smith                    The Serving Machine                1500.00           8          0.05 2011-04-08    
+          803 Michael Smith                    Printer                             120.00          15          0.05 2011-04-08    
+          807 Stapler Guy                      CPU B                               400.00           2          0.15 2011-04-01    
+          807 Stapler Guy                      CPU C                               600.00          10          0.15 2011-04-01    
+          807 Stapler Guy                      Nothing-But-A-Lemming               350.00           3          0.15 2011-04-01    
+
+  7 record(s) selected.
+
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+****************************************************************************
+QUESTION 8b
+****************************************************************************
+
+TOPSALEQCCODE TOTALBEFOREDIS                    TOTALAFTERDIS                    
+------------- --------------------------------- ---------------------------------
+          802                            390.00                          351.0000
+          803                          13800.00                        13110.0000
+          807                           7850.00                         6672.5000
+
+  3 record(s) selected.
+
+
+****************************************************************************
+QUESTION 8c
+****************************************************************************
+
+TOPSALEQCCODE SALESNAME                        SALESDISCOUNT TOTALAFTERDISC INMONTHOFAPRIL
+------------- -------------------------------- ------------- -------------- --------------
+          803 Michael Smith                             0.05       13110.00 2011-04-08    
+          807 Stapler Guy                               0.15        6672.50 2011-04-01    
+          802 Mike Wazoski                              0.10         351.00 2011-04-08    
+
+  3 record(s) selected.
+
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+****************************************************************************
+QUESTION 9
+****************************************************************************
+
+COMPSANDPARTSNOTSOLD             SALESPERSON                     
+-------------------------------- --------------------------------
+GForce ASUS                      Michael Smith                   
+Memory C                         Michael Smith                   
+Acer                             Michael Smith                   
+
+  3 record(s) selected.
+
+****************************************************************************
+QUESTION 10
+****************************************************************************
+
+QCCODE      PRODUCTNAME                      DETAILS                                           
+----------- -------------------------------- --------------------------------------------------
+        801 Acer                             I'm a Acer                                        
+        801 Printer                          I'm a Printer A!                                  
+        801 Monitor                          I'm a Monitor!                                    
+        802 Mouse                            I'm a Mouse!                                      
+        802 Keyboard                         I'm a Keyboard!                                   
+        803 The Serving Machine              I'm a The Serving Machine                         
+        803 Printer                          I'm a Printer A!                                  
+        804 Nothing-But-A-Lemming            I'm a Nothing-But-A-Lemming                       
+        804 Keyboard                         I'm a Keyboard!                                   
+        804 Speakers                         I'm a Speakers!                                   
+        805 Acer                             I'm a Acer                                        
+        805 A Really Awesome Notebook        I'm a A Really ...                                
+        805 Speakers                         I'm a Speakers!                                   
+        806 A Really Awesome Notebook        I'm a A Really ...                                
+        806 Monitor                          I'm a Monitor!                                    
+        807 CPU B                            I'm a CPU B!                                      
+        807 CPU C                            I'm a CPU C!                                      
+        807 Nothing-But-A-Lemming            I'm a Nothing-But-A-Lemming                       
+        808 GForce ASUS                      I'm a GForce ASUS!                                
+        808 Memory C                         I'm a Memory C!                                   
+        808 Acer                             I'm a Acer                                        
+
+  21 record(s) selected.
+
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+****************************************************************************
+QUESTION 11
+****************************************************************************
+
+SUPERVISOR                       SALESMAN                         POSITION                         TOTALSALARY
+-------------------------------- -------------------------------- -------------------------------- -----------
+Carrot Top                       Michael Smith                    Master Baiterlol                    66311.00
+James Franco                     Michael Bolton                   Master Rock Star                    46086.25
+James Dean                       Boss Hog                         Master Driver                       41767.47
+James Dean                       Mike Wazoski                     Master Chief                        34000.12
+Jared Leto                       Stapler Guy                      Master Stapler                      32000.23
+
+  5 record(s) selected.
+
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+DB20000I  The SQL command completed successfully.
+
+
+NAME                             ADDRESS                          WORK_PHONE           TOTALPRICE                       
+-------------------------------- -------------------------------- -------------------- ---------------------------------
+James Caan                       Ohio                                       6135551238                          13800.00
+
+  1 record(s) selected.
+
+
+DB20000I  The TERMINATE command completed successfully.
