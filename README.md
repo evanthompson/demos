@@ -1,4 +1,4 @@
 demos
 =====
 
-Coding example for posible employers.
+Coding example for possible employers.
