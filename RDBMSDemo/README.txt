@@ -1,11 +1,7 @@
-Demonstration of knowledge of relational databases:
-This example was an project completed in a relational database
+A demonstration of my knowledge of relational databases:
+This example was a project completed in a relational database
 management systems course. It was a group assignemnt, so I cannot take
-full credit for our work.
-
-The project was done in visio and DB2.
-Submitted by Evan Thompson and Mike Martino
-
+full credit for this work.
 
 Notes about the Project:
 I would recommend just opening the .db2 file in a generic editor, instead of
@@ -17,3 +13,7 @@ Queries are numbered, and match up between input and output files.
 To get a quick overview of the size and complexity of the database, the
 model that we based the database around can be found within the ERModel.pdf
 file.
+
+
+The project was done in visio and DB2.
+Submitted by Evan Thompson and Mike Martino
