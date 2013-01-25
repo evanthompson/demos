@@ -4,6 +4,8 @@ Important Notes:
 
 *	This project is dependant on the org.eclipse.swt package, and will not
 	run otherwise.
+*	swt.jar is include with the package (within the lib dir), it needs to
+	be included on the build path.
 
 
 General Notes about the project:
