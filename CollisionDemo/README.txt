@@ -1,8 +1,10 @@
 Important Notes:
-*	This demo is just an out-dated artifact of a much larger project I am
+*	This demo out-dated screen-shot from a much larger project I am (still)
 	currently working on (Dungeon). This demo is still included because it 
-	reached a point where there were very few loose ends (at this point in 
-	time for the overall project).
+	reached a point in development where it could be packaged up easily as
+	a demonstration of coding principles and practices. For more in-depth
+	and more complex (although unfinished )examples of what I have done in 
+	Java, refer to the 'Dungeon' Repository.
 	
 *	This project was developmed and tested within Eclipse.
 *	This project is dependant on the org.eclipse.swt package, and will not
